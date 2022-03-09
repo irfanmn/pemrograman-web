@@ -1,5 +1,4 @@
 <?php
-
 var_dump(1 + 1);
 ## output adalah int(2)
 var_dump("1 + 1");
